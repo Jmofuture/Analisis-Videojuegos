@@ -10,4 +10,5 @@ Se inicia con un Dataset un tanto desordenado en cuanto a las columnas de los to
 
 Luego de una cuantas transformacion:
 
-<li>Se eliminó la columna de <strong>Ventas Totales</strong>
+<li>Se eliminó la columna de <strong>Ventas Totales</strong></li>
+  
