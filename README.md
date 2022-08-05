@@ -19,13 +19,13 @@ Luego de una cuantas transformacion:
 ![Screenshot 2022-08-05 181504](https://user-images.githubusercontent.com/78714438/183212534-434cb932-fa54-4407-adb1-99f8ff6d86a7.png)
 
 <ol>
-<li>Una </strong> Tarjeta</strong> con el total de copias vendidas</li>
-<li>Un </strong> Grafico de barras</strong> con el porcentaje vendido por región</li>
-<li>Un </strong> Grafico de columnas</strong> con las ventas acumulados por año y región</li>
-<li>Un </strong> Grafico de barras</strong> con las ventas acumulados por año y región</li>
-<li>Un </strong> Grafico de barras </strong> con las ventas acumulados por plataforma y región</li>
-<li>Un </strong> Grafico de columnas</strong> con las ventas acumulados por género y por región</li>
-<li>Una </strong> Tabla</strong> con el detalle, nombre de los videojuegos, ventas, plataforma, género y editorial </li>
+<li>Una <strong> Tarjeta</strong> con el total de copias vendidas</li>
+<li>Un <strong> Grafico de barras</strong> con el porcentaje vendido por región</li>
+<li>Un <strong> Grafico de columnas</strong> con las ventas acumulados por año y región</li>
+<li>Un <strong> Grafico de barras</strong> con las ventas acumulados por año y región</li>
+<li>Un <strong> Grafico de barras </strong> con las ventas acumulados por plataforma y región</li>
+<li>Un <strong> Grafico de columnas</strong> con las ventas acumulados por género y por región</li>
+<li>Una <strong> Tabla</strong> con el detalle, nombre de los videojuegos, ventas, plataforma, género y editorial </li>
 </ol>
 
   
