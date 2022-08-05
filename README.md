@@ -30,7 +30,7 @@ Luego de una cuantas transformacion:
 <li>Una <strong> Tabla</strong> con el detalle, nombre de los videojuegos, ventas, plataforma, género y editorial </li>
 </ol>
 
- ###Del mismo modo se agregaron 5 filtros:
+ ### Del mismo modo se agregaron 5 filtros:
  
 <li>Año </li>
 <li>Región</li>
@@ -38,3 +38,4 @@ Luego de una cuantas transformacion:
 <li>Género</li>
 <li>Editorial</li>
 
+![image](https://user-images.githubusercontent.com/78714438/183216451-1a34d931-5b35-447a-9a4a-2f6d856c3191.png)
